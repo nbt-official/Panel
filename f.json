@@ -1,9 +1,9 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
+        "device_id": "9ff9f283511fed6f",
+        "key": "NBT-ZZ0h9dElp8",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "693d3041e8526c97",
