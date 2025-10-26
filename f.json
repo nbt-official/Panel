@@ -28,5 +28,11 @@
         "key": "NBT-Olpge2ouq2",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9d0fdff7e2ce1608",
+        "key": "NBT-SHALINDUVIP",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
